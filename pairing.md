@@ -143,4 +143,4 @@ Like anything else, after pairing for a while you may ask, "how do I know I'm do
 
 ***Use this rubric to reflect on your pairing behavior:***
   
- ![Pairing Rubric](../img/pairing_rubric.png)
+ ![Pairing Rubric](pairing_rubric.png)
