@@ -5,7 +5,7 @@ Students will create a React app based on the technical descriptions below. Obje
 - Practice mocking and DI
 - Integration and unit testing.
 
-The following specs don’t provide any details about implementation or use cases. Instead, it’s an abbreviated list of requirements that require you to discuss and plan each feature. Try to visualize the features based on their descriptions. Then write tests to develop an app. 
+The following specs don’t provide any details about implementation or use cases. Instead, it’s an abbreviated list of requirements that require you to discuss and plan each feature. Try to visualize the features based on their descriptions. Then write tests to develop an MVP (minimum viable product). 
 
 
 ## Tech Specs
