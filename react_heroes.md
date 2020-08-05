@@ -23,7 +23,7 @@ The following specs don’t provide any details about implementation or use case
 * renders lists of clickable heroes
 
 ### Heroes
-`{"id": "0", "Name": "A-Bomb", "Alignment": "good", "Gender": "Male", "EyeColor": "yellow", "Race": "Human", "HairColor": "No Hair", "Height": "203", "Weight": "441", “image”: “someurl.example.com” "powers": [ ]}`
+`{"id": "0", "Name": "A-Bomb", "Alignment": "good", "Gender": "Male", "EyeColor": "yellow", "Race": "Human", "HairColor": "No Hair", "Height": "203", "Weight": "441", "image": "someurl.example.com", "powers": [ ]}`
 * have unique page
 * have stats displayed on their page
 * Full CRUDL
