@@ -1,11 +1,12 @@
 Based on: https://github.com/gSchool/herobook
 
 Students will create a React app based on the technical descriptions below. Objectives:
-Practice TDD
-Practice mocking and DI
-Integration and unit testing.
+- Practice TDD
+- Practice mocking and DI
+- Integration and unit testing.
 
 Tests will need to be written for more complex objects such as forms. 
+
 
 ## Tech Specs
 
