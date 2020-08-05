@@ -1,3 +1,5 @@
+# React Heroes TDD Exercise
+
 Based on: https://github.com/gSchool/herobook
 
 Students will create a React app based on the technical descriptions below. Objectives:
