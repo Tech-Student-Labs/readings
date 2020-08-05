@@ -10,6 +10,11 @@ Tests will need to be written for more complex objects such as forms.
 
 ## Tech Specs
 
+### Navigation
+* Home url
+* Login/Logout url
+* Favorites url
+
 ### Homepage 
 * has navigation (routes)
 * has search bar
@@ -19,7 +24,7 @@ Tests will need to be written for more complex objects such as forms.
 `{"id": "0", "Name": "A-Bomb", "Alignment": "good", "Gender": "Male", "EyeColor": "yellow", "Race": "Human", "HairColor": "No Hair", "Height": "203", "Weight": "441", “image”: “someurl.example.com” "powers": [ ]}`
 * have unique page
 * have stats displayed on their page
-* Full CRUD
+* Full CRUDL
 
 ### Search
 * can search for heroes by name
@@ -29,7 +34,7 @@ Tests will need to be written for more complex objects such as forms.
 ### Users
 * can register
 * can login/logout
-* Full CRUD
+* Full CRUDL
 * can have a favorite heroes list
 * can add/remove heroes on their list
 
