@@ -5,7 +5,7 @@ Students will create a React app based on the technical descriptions below. Obje
 - Practice mocking and DI
 - Integration and unit testing.
 
-Tests will need to be written for more complex objects such as forms. 
+The following specs don’t provide any details about implementation or use cases. Instead, it’s an abbreviated list of requirements that require you to discuss and plan each feature. Try to visualize the features based on their descriptions. Then write tests to develop an app. 
 
 
 ## Tech Specs
@@ -18,7 +18,7 @@ Tests will need to be written for more complex objects such as forms.
 ### Homepage 
 * has navigation (routes)
 * has search bar
-* renders lists of heroes
+* renders lists of clickable heroes
 
 ### Heroes
 `{"id": "0", "Name": "A-Bomb", "Alignment": "good", "Gender": "Male", "EyeColor": "yellow", "Race": "Human", "HairColor": "No Hair", "Height": "203", "Weight": "441", “image”: “someurl.example.com” "powers": [ ]}`
